@@ -20,6 +20,21 @@ print(resp)
 
 ```
 
+## 正确返回结果
+
+```
+{
+    alibaba_aliqin_fc_sms_num_send_response: {
+        request_id: "ztatb1sl97gu", 
+        result: {
+            err_code: "0", 
+            model: "100992225259^1101460699829", 
+            success: true
+        }
+    }
+}
+```
+
 - 阿里大鱼 API 文档说明: 
 
 <https://api.alidayu.com/doc2/apiDetail.htm?apiId=25450>
