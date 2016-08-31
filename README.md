@@ -1,6 +1,6 @@
-## 阿里大鱼短信 SDK for python3
+## 阿里大于短信 SDK for python3
 
-最近一个项目刚好需要接入短信验证收发这一功能, 经过筛选以后敲定选择阿里大鱼的解决方案. 比较良心的是提供了 Python 的 SDK, 然而这是一份长了草的SDK, 为署名 lihao 的开发者在 2012 年更新的源码, 所以悲催的事情出现, 只支持 Python2.x, 经过一番爬坑修改后, 成功让短信验证功能跑通, 对应的接口是`AlibabaAliqinFcSmsNumSendRequest`, 别的接口没整:-)
+最近一个项目刚好需要接入短信验证收发这一功能, 经过筛选以后敲定选择阿里大于的解决方案. 比较良心的是提供了 Python 的 SDK, 然而这是一份长了草的SDK, 为署名 lihao 的开发者在 2012 年更新的源码, 所以悲催的事情出现, 只支持 Python2.x, 经过一番爬坑修改后, 成功让短信验证功能跑通, 对应的接口是`AlibabaAliqinFcSmsNumSendRequest`, 别的接口没整:-)
 
 ## 例子
 
@@ -20,6 +20,6 @@ print(resp)
 
 ```
 
-- 阿里大鱼 API 文档说明: 
+- 阿里大于 API 文档说明: 
 
 <https://api.alidayu.com/doc2/apiDetail.htm?apiId=25450>
